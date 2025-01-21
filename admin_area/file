@@ -1,0 +1,10 @@
+ <tr class = text-center>
+        <td>1</td>
+        <td>Product 1</td>
+        <td><img src='path/to/image1.jpg' alt='Product 1 Image' width='50'></td>
+        <td>$100</td>
+        <td>150</td>
+        <td>In Stock</td>
+        <td><a href='' class=''><i class='fa-solid fa-pen-to-square'></i> </a></td>
+        <td><a href='' class=''><i class='fa-solid fa-trash'></i> </a></td>
+      </tr>
